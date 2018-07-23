@@ -1,0 +1,37 @@
+#whatever {
+    background-color: lightcoral;
+}
+
+.col{
+border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.viewPane{
+    border:1px solid grey;
+    padding:0px;
+}
+
+#graphics{
+    min-height:300px;
+    border: 2px solid grey;
+}
+
+#topBar{
+    height: 30px;
+    border: 1px dashed grey;
+}
+
+.statsBar{
+    height:10%;
+    border:1px solid grey;
+}
+.visuals{
+    height:80%;
+}
+
+.btn{
+    align-items: center;
+}
