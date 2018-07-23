@@ -35,3 +35,11 @@ border: 1px solid black;
 .btn{
     align-items: center;
 }
+
+.msgItem{
+    height: 28px;
+}
+
+.msgContainer{
+    border: 1px solid lightgrey;
+}
